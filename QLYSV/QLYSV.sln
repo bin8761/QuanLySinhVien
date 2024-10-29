@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLySinhVien", "QuanLySinhVien\QuanLySinhVien.csproj", "{42EC3CD3-4FAF-4D44-A105-74997D569647}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLYSV", "QLYSV\QLYSV.csproj", "{42236C0B-8AA4-4479-A573-286D2B0349EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{42EC3CD3-4FAF-4D44-A105-74997D569647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{42EC3CD3-4FAF-4D44-A105-74997D569647}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{42EC3CD3-4FAF-4D44-A105-74997D569647}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{42EC3CD3-4FAF-4D44-A105-74997D569647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42236C0B-8AA4-4479-A573-286D2B0349EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42236C0B-8AA4-4479-A573-286D2B0349EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42236C0B-8AA4-4479-A573-286D2B0349EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42236C0B-8AA4-4479-A573-286D2B0349EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {68663EC1-257B-4368-A5C7-87651C8D0959}
+		SolutionGuid = {2853DD22-A257-4B47-8856-FF486455B358}
 	EndGlobalSection
 EndGlobal

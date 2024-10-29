@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace QuanLySinhVien
+namespace QLYSV
 {
     internal static class Program
     {

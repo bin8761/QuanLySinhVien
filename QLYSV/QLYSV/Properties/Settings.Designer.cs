@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace QuanLySinhVien.Properties
+namespace QLYSV.Properties
 {
 
 
